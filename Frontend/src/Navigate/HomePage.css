@@ -1,0 +1,19 @@
+
+ #HomePage{
+   background-image: url(../images/HomePage.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+ }
+
+  .signin {
+    margin-top: 450px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 750px;
+    /* background-color: lightblue; */
+  }
+
+  
+  
+    

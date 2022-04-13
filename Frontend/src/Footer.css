@@ -1,0 +1,38 @@
+/*footer*/
+#footer
+{
+    background-image: linear-gradient(to right,#2092d8,#5f1782);
+    color: #fff;
+}
+
+.footer-box
+{
+    padding: 20px;
+}
+/* .footer-box img
+{
+    width: 1cm;
+    margin-bottom: 20px;
+} */
+.footer-box .subs
+{
+ box-shadow: none !important; 
+ border: none;
+ border-radius: 0;
+ margin-top: 25px;
+ max-width: 250px;
+}
+hr
+{
+    background-color: #fff;
+}
+.copyright
+{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.image{
+    width: 100px;;
+}

@@ -1,0 +1,64 @@
+@charset "ISO-8859-1";
+
+#students {
+	margin: auto;
+	margin-top: 55px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 80%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#students td, #students th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#students tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#students tr:hover {
+	background-color: #ddd;
+}
+
+#students th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #04AA6D;
+	color: white;
+}
+
+button {
+	width: 2cm;
+	height:35px;
+	color: white;
+	background-color: blue;
+	cursor: pointer;
+	border: none;
+	opacity: 0.9;
+}
+form{
+ display: inline;
+}
+
+.backbtn {
+	background-color: red;
+	color: white;
+	padding: 10px 15px;
+	margin-top: 2cm;
+	float: right;
+	border: none;
+	cursor: pointer;
+	width: 10%;
+	opacity: 0.9;
+	border: none;
+	float: right;
+}
+
+.btn1{
+    margin-top: 15px;
+    margin-left: 1300px;
+}
